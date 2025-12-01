@@ -1,6 +1,6 @@
 # Results
 
-* Connected to the Neurolabs API directly using requests (no SDK).
+* Connected to the Neurolabs API directly using requests.
 
 * Loaded the two CSV files containing the cooler and ambient image URLs.
 
