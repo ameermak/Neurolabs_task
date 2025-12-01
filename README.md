@@ -12,11 +12,11 @@ I’ve tried to keep the setup minimal and the workflow straightforward so it ca
 
 ## Output locations
 
-Raw JSON result files:
+* Raw JSON result files:
 output/json/
 
-Bounding box images for cooler task:
+* Bounding box images for cooler task:
 output/images/
 
-Charts:
+* Charts:
 output/charts/
