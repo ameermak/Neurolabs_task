@@ -23,7 +23,7 @@ output/charts/
 
 ## Notes
 
-Images are submitted one-at-a-time because the staging API has a strict rate limit. It’s slightly slower but reliable.
+Images are submitted one-at-a-time because the staging API has a strict rate limit.
 
 Catalog items are pulled once and joined with product detections using product UUIDs.
 
