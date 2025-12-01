@@ -20,3 +20,11 @@ output/images/
 
 Charts:
 output/charts/
+
+## Notes
+
+Images are submitted one-at-a-time because the staging API has a strict rate limit. It’s slightly slower but reliable.
+
+Catalog items are pulled once and joined with product detections using product UUIDs.
+
+Only the cooler images include bounding box visualisation since that was part of the task requirements.
