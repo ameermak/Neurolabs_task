@@ -2,7 +2,7 @@
 
 ## What I Did
 
-Connected to the Neurolabs API directly using requests (no SDK).
+1. Connected to the Neurolabs API directly using requests (no SDK).
 
 Loaded the two CSV files containing the cooler and ambient image URLs.
 
@@ -18,8 +18,8 @@ Pulled catalog item data and joined it with the detections so I could generate p
 
 Finally, I generated two simple charts:
 
-A pie chart showing how often each product was detected.
+  A pie chart showing how often each product was detected.
 
-A bar chart showing highest vs. lowest confidence detections.
+  * A bar chart showing highest vs. lowest confidence detections.
 
 Everything is written to the output/ folder for easy inspection.
