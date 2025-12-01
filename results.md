@@ -29,11 +29,13 @@
 
 * I assumed only cooler images needed bounding box visualisation (based on the task description).
 
+* Ambient results came back with no detections, so they were excluded from the analysis.
+
 
 ## Limitations
 
 * The staging API rate limits pretty hard, so submissions have to be slow and sequential.
 
-* If a particular image never becomes “PROCESSED”, the script will eventually skip it.
+* Ambient task results provided no annotations, so they couldn’t contribute to the analysis or charts.
 
 * The analysis is intentionally basic. With more time, I’d expand the charts and maybe explore multi-image comparisons or confidence distributions per brand/category.
