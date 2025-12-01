@@ -22,11 +22,13 @@
 
 * Everything is written to the output/ folder for easy inspection.
 
+
 ## Assumptions
 
 * Some API results come back as “IN_PROGRESS”, so I added a small retry loop to wait for the final output.
 
 * I assumed only cooler images needed bounding box visualisation (based on the task description).
+
 
 ## Limitations
 
