@@ -1,0 +1,2203 @@
+{
+  "uuid": "c2f8e2b4-942a-4aa4-bfd7-f3ed9839fe5c",
+  "task_uuid": "31daf853-8c33-4e54-9fe9-0bb53b84bb60",
+  "image_url": "https://storage.googleapis.com/staging-zia-web-public/staging/ir-tasks/087d4d0c-8b3b-4d1c-abb4-c697c41db427/5f971136-17c0-4113-a5b2-4fc8ea2749ba.jpg",
+  "status": "PROCESSED",
+  "failure_reason": "",
+  "duration": 25.910348,
+  "created_at": "2025-12-01T15:20:40.716220",
+  "updated_at": "2025-12-01T15:21:06.436187",
+  "postprocessing_results": {
+    "realogram": {
+      "gaps": [
+        {
+          "shelf_id": 1,
+          "slot": 3,
+          "stack_index": 0,
+          "bbox": [
+            1581,
+            0,
+            590,
+            367
+          ]
+        },
+        {
+          "shelf_id": 1,
+          "slot": 9,
+          "stack_index": 0,
+          "bbox": [
+            3676,
+            0,
+            355,
+            367
+          ]
+        },
+        {
+          "shelf_id": 2,
+          "slot": 1,
+          "stack_index": 0,
+          "bbox": [
+            0,
+            441,
+            3846,
+            122
+          ]
+        },
+        {
+          "shelf_id": 4,
+          "slot": 1,
+          "stack_index": 0,
+          "bbox": [
+            0,
+            1254,
+            3700,
+            107
+          ]
+        }
+      ],
+      "item_entries": [
+        {
+          "annotation_id": 37,
+          "shelf_id": 1,
+          "slot": 6,
+          "stack_index": 0
+        },
+        {
+          "annotation_id": 41,
+          "shelf_id": 1,
+          "slot": 7,
+          "stack_index": 0
+        },
+        {
+          "annotation_id": 45,
+          "shelf_id": 1,
+          "slot": 8,
+          "stack_index": 0
+        },
+        {
+          "annotation_id": 13,
+          "shelf_id": 1,
+          "slot": 2,
+          "stack_index": 0
+        },
+        {
+          "annotation_id": 32,
+          "shelf_id": 1,
+          "slot": 5,
+          "stack_index": 0
+        },
+        {
+          "annotation_id": 0,
+          "shelf_id": 1,
+          "slot": 1,
+          "stack_index": 0
+        },
+        {
+          "annotation_id": 27,
+          "shelf_id": 1,
+          "slot": 4,
+          "stack_index": 0
+        },
+        {
+          "annotation_id": 49,
+          "shelf_id": 2,
+          "slot": 2,
+          "stack_index": 0
+        },
+        {
+          "annotation_id": 22,
+          "shelf_id": 3,
+          "slot": 8,
+          "stack_index": 1
+        },
+        {
+          "annotation_id": 1,
+          "shelf_id": 3,
+          "slot": 2,
+          "stack_index": 2
+        },
+        {
+          "annotation_id": 25,
+          "shelf_id": 3,
+          "slot": 9,
+          "stack_index": 1
+        },
+        {
+          "annotation_id": 19,
+          "shelf_id": 3,
+          "slot": 7,
+          "stack_index": 1
+        },
+        {
+          "annotation_id": 44,
+          "shelf_id": 3,
+          "slot": 14,
+          "stack_index": 1
+        },
+        {
+          "annotation_id": 16,
+          "shelf_id": 3,
+          "slot": 6,
+          "stack_index": 1
+        },
+        {
+          "annotation_id": 9,
+          "shelf_id": 3,
+          "slot": 4,
+          "stack_index": 1
+        },
+        {
+          "annotation_id": 40,
+          "shelf_id": 3,
+          "slot": 13,
+          "stack_index": 1
+        },
+        {
+          "annotation_id": 7,
+          "shelf_id": 3,
+          "slot": 3,
+          "stack_index": 1
+        },
+        {
+          "annotation_id": 34,
+          "shelf_id": 3,
+          "slot": 11,
+          "stack_index": 1
+        },
+        {
+          "annotation_id": 14,
+          "shelf_id": 3,
+          "slot": 5,
+          "stack_index": 1
+        },
+        {
+          "annotation_id": 5,
+          "shelf_id": 3,
+          "slot": 2,
+          "stack_index": 1
+        },
+        {
+          "annotation_id": 30,
+          "shelf_id": 3,
+          "slot": 10,
+          "stack_index": 1
+        },
+        {
+          "annotation_id": 36,
+          "shelf_id": 3,
+          "slot": 12,
+          "stack_index": 1
+        },
+        {
+          "annotation_id": 48,
+          "shelf_id": 3,
+          "slot": 15,
+          "stack_index": 1
+        },
+        {
+          "annotation_id": 2,
+          "shelf_id": 3,
+          "slot": 1,
+          "stack_index": 0
+        },
+        {
+          "annotation_id": 47,
+          "shelf_id": 3,
+          "slot": 15,
+          "stack_index": 0
+        },
+        {
+          "annotation_id": 43,
+          "shelf_id": 3,
+          "slot": 14,
+          "stack_index": 0
+        },
+        {
+          "annotation_id": 33,
+          "shelf_id": 3,
+          "slot": 11,
+          "stack_index": 0
+        },
+        {
+          "annotation_id": 20,
+          "shelf_id": 3,
+          "slot": 7,
+          "stack_index": 0
+        },
+        {
+          "annotation_id": 39,
+          "shelf_id": 3,
+          "slot": 13,
+          "stack_index": 0
+        },
+        {
+          "annotation_id": 17,
+          "shelf_id": 3,
+          "slot": 6,
+          "stack_index": 0
+        },
+        {
+          "annotation_id": 29,
+          "shelf_id": 3,
+          "slot": 10,
+          "stack_index": 0
+        },
+        {
+          "annotation_id": 35,
+          "shelf_id": 3,
+          "slot": 12,
+          "stack_index": 0
+        },
+        {
+          "annotation_id": 23,
+          "shelf_id": 3,
+          "slot": 8,
+          "stack_index": 0
+        },
+        {
+          "annotation_id": 11,
+          "shelf_id": 3,
+          "slot": 4,
+          "stack_index": 0
+        },
+        {
+          "annotation_id": 8,
+          "shelf_id": 3,
+          "slot": 3,
+          "stack_index": 0
+        },
+        {
+          "annotation_id": 26,
+          "shelf_id": 3,
+          "slot": 9,
+          "stack_index": 0
+        },
+        {
+          "annotation_id": 6,
+          "shelf_id": 3,
+          "slot": 2,
+          "stack_index": 0
+        },
+        {
+          "annotation_id": 15,
+          "shelf_id": 3,
+          "slot": 5,
+          "stack_index": 0
+        },
+        {
+          "annotation_id": 46,
+          "shelf_id": 4,
+          "slot": 2,
+          "stack_index": 0
+        }
+      ]
+    },
+    "shares": [
+      {
+        "image_id": 1,
+        "values": [
+          {
+            "group_by": "products",
+            "product_uuid": null,
+            "count": 26,
+            "count_ratio": 0.5098039215686274,
+            "area": 1278190,
+            "area_ratio": 0.39757546123406745
+          },
+          {
+            "group_by": "products",
+            "product_uuid": "4f05f8f9-d145-4ad8-a0e6-3f9fe840d5c2",
+            "count": 1,
+            "count_ratio": 0.0196078431372549,
+            "area": 59401,
+            "area_ratio": 0.018476423671570614
+          },
+          {
+            "group_by": "products",
+            "product_uuid": "51fefcc6-f3d5-43fd-9480-74e260f731bf",
+            "count": 4,
+            "count_ratio": 0.0784313725490196,
+            "area": 373148,
+            "area_ratio": 0.11606606858805796
+          },
+          {
+            "group_by": "products",
+            "product_uuid": "5176aa60-83e8-4502-840a-25524e503150",
+            "count": 4,
+            "count_ratio": 0.0784313725490196,
+            "area": 279478,
+            "area_ratio": 0.08693042095054311
+          },
+          {
+            "group_by": "products",
+            "product_uuid": "e59c3090-8001-4dec-8604-9a647b120181",
+            "count": 10,
+            "count_ratio": 0.19607843137254902,
+            "area": 766483,
+            "area_ratio": 0.23841121605791918
+          },
+          {
+            "group_by": "products",
+            "product_uuid": "2b7c6b5d-8ccf-44ba-bdc0-bcf99c8defe2",
+            "count": 6,
+            "count_ratio": 0.11764705882352941,
+            "area": 458262,
+            "area_ratio": 0.14254040949784166
+          }
+        ]
+      }
+    ]
+  },
+  "coco": {
+    "info": {
+      "url": "",
+      "year": "2025",
+      "version": "1",
+      "contributor": "",
+      "description": "",
+      "date_created": "12/01/2025, 15:20:40"
+    },
+    "images": [
+      {
+        "id": 1,
+        "width": null,
+        "height": null,
+        "license": 1,
+        "coco_url": "",
+        "file_name": "https://storage.googleapis.com/staging-zia-web-public/staging/ir-tasks/087d4d0c-8b3b-4d1c-abb4-c697c41db427/5f971136-17c0-4113-a5b2-4fc8ea2749ba.jpg",
+        "flickr_url": "",
+        "date_captured": ""
+      }
+    ],
+    "licenses": [
+      {
+        "id": 1,
+        "url": "",
+        "name": ""
+      }
+    ],
+    "neurolabs": {},
+    "categories": [
+      {
+        "id": 0,
+        "name": "object",
+        "neurolabs": null,
+        "supercategory": ""
+      },
+      {
+        "id": 1,
+        "name": "Yeo Valley organic Natural",
+        "neurolabs": {
+          "productUuid": "4f05f8f9-d145-4ad8-a0e6-3f9fe840d5c2",
+          "name": "Yeo Valley organic Natural",
+          "tags": "[\"yoghurt\"]"
+        },
+        "supercategory": ""
+      },
+      {
+        "id": 2,
+        "name": "Yeo Valley organic Greek style",
+        "neurolabs": {
+          "productUuid": "51fefcc6-f3d5-43fd-9480-74e260f731bf",
+          "name": "Yeo Valley organic Greek style",
+          "tags": "[\"yoghurt\"]"
+        },
+        "supercategory": ""
+      },
+      {
+        "id": 3,
+        "name": "Yeo Valley organic Vanilla",
+        "neurolabs": {
+          "productUuid": "5176aa60-83e8-4502-840a-25524e503150",
+          "name": "Yeo Valley organic Vanilla",
+          "tags": "[\"yoghurt\"]"
+        },
+        "supercategory": ""
+      },
+      {
+        "id": 4,
+        "name": "Yeo Valley organic Blueberry",
+        "neurolabs": {
+          "productUuid": "e59c3090-8001-4dec-8604-9a647b120181",
+          "name": "Yeo Valley organic Blueberry",
+          "tags": "[\"yoghurt\"]"
+        },
+        "supercategory": ""
+      },
+      {
+        "id": 5,
+        "name": "Onken Strawberry",
+        "neurolabs": {
+          "productUuid": "2b7c6b5d-8ccf-44ba-bdc0-bcf99c8defe2",
+          "name": "Onken Strawberry",
+          "tags": "[\"yoghurt\"]"
+        },
+        "supercategory": ""
+      },
+      {
+        "id": 6,
+        "name": "Alpro Plain Greek style",
+        "neurolabs": {
+          "productUuid": "73f1bdf5-31ff-4d9c-83c7-738c2137942a",
+          "name": "Alpro Plain Greek style",
+          "tags": "[\"yoghurt\"]"
+        },
+        "supercategory": ""
+      },
+      {
+        "id": 7,
+        "name": "price",
+        "neurolabs": {},
+        "supercategory": ""
+      },
+      {
+        "id": 8,
+        "name": "Alpro Vanilla",
+        "neurolabs": {
+          "productUuid": "5bdb53d9-59ae-4eed-b73e-19a499bfe496",
+          "name": "Alpro Vanilla",
+          "tags": "[\"yoghurt\"]"
+        },
+        "supercategory": ""
+      },
+      {
+        "id": 9,
+        "name": "Alpro Plain",
+        "neurolabs": {
+          "productUuid": "fafffc79-4c6b-4f47-83ee-f0a326affd59",
+          "name": "Alpro Plain",
+          "tags": "[\"yoghurt\"]"
+        },
+        "supercategory": ""
+      },
+      {
+        "id": 10,
+        "name": "Sainsbury's Greek style Fat free",
+        "neurolabs": {
+          "productUuid": "1187f210-ad99-4550-9c99-5585fc54e1c9",
+          "name": "Sainsbury's Greek style Fat free",
+          "tags": "[\"yoghurt\"]"
+        },
+        "supercategory": ""
+      },
+      {
+        "id": 11,
+        "name": "Fage Total 5%",
+        "neurolabs": {
+          "productUuid": "89d4c883-33dc-4ae4-a531-0264e37c7bbc",
+          "name": "Fage Total 5%",
+          "tags": "[\"yoghurt\"]"
+        },
+        "supercategory": ""
+      },
+      {
+        "id": 12,
+        "name": "Sainsbury's Greek style",
+        "neurolabs": {
+          "productUuid": "fa9ec426-4862-44de-9fe2-0972b7d6ac21",
+          "name": "Sainsbury's Greek style",
+          "tags": "[\"yoghurt\"]"
+        },
+        "supercategory": ""
+      },
+      {
+        "id": 13,
+        "name": "Sure Bright Bouquet",
+        "neurolabs": {
+          "productUuid": "74367185-c08a-40c4-8d19-b5ab5367b5b7",
+          "name": "Sure Bright Bouquet",
+          "tags": "[\"deodorant\"]"
+        },
+        "supercategory": ""
+      }
+    ],
+    "annotations": [
+      {
+        "id": 0,
+        "area": 240809,
+        "bbox": [
+          0,
+          107,
+          937,
+          257
+        ],
+        "iscrowd": 0,
+        "image_id": 1,
+        "neurolabs": {
+          "modalities": {
+            "price": [
+              {
+                "score": 1.0,
+                "value": ""
+              }
+            ]
+          },
+          "score": 1.0,
+          "alternative_predictions": [
+            {
+              "category_id": 2,
+              "score": 0.241472686
+            },
+            {
+              "category_id": 4,
+              "score": 0.181211924
+            },
+            {
+              "category_id": 6,
+              "score": 0.11667635
+            }
+          ]
+        },
+        "category_id": 0,
+        "segmentation": []
+      },
+      {
+        "id": 1,
+        "area": 59401,
+        "bbox": [
+          0,
+          520,
+          191,
+          311
+        ],
+        "iscrowd": 0,
+        "image_id": 1,
+        "neurolabs": {
+          "modalities": {
+            "price": [
+              {
+                "score": 1.0,
+                "value": ""
+              }
+            ]
+          },
+          "score": 0.511623186,
+          "alternative_predictions": [
+            {
+              "category_id": 2,
+              "score": 0.450654136
+            }
+          ]
+        },
+        "category_id": 1,
+        "segmentation": []
+      },
+      {
+        "id": 2,
+        "area": 54742,
+        "bbox": [
+          24,
+          814,
+          202,
+          271
+        ],
+        "iscrowd": 0,
+        "image_id": 1,
+        "neurolabs": {
+          "modalities": {
+            "price": [
+              {
+                "score": 1.0,
+                "value": ""
+              }
+            ]
+          },
+          "score": 1.0,
+          "alternative_predictions": [
+            {
+              "category_id": 1,
+              "score": 0.316075836
+            },
+            {
+              "category_id": 2,
+              "score": 0.281994306
+            },
+            {
+              "category_id": 3,
+              "score": 0.25080133
+            }
+          ]
+        },
+        "category_id": 0,
+        "segmentation": []
+      },
+      {
+        "id": 3,
+        "area": 28476,
+        "bbox": [
+          34,
+          374,
+          226,
+          126
+        ],
+        "iscrowd": 0,
+        "image_id": 1,
+        "neurolabs": {
+          "modalities": {
+            "price": [
+              {
+                "score": 1.0,
+                "value": "3, 0.30"
+              }
+            ],
+            "quantity": [
+              {
+                "score": 1.0,
+                "value": "1, 100"
+              }
+            ]
+          },
+          "score": null
+        },
+        "category_id": 7,
+        "segmentation": []
+      },
+      {
+        "id": 4,
+        "area": 26208,
+        "bbox": [
+          88,
+          1310,
+          234,
+          112
+        ],
+        "iscrowd": 0,
+        "image_id": 1,
+        "neurolabs": {
+          "modalities": {
+            "price": [
+              {
+                "score": 1.0,
+                "value": "2.35, 0.52"
+              }
+            ],
+            "quantity": [
+              {
+                "score": 1.0,
+                "value": "1, 100"
+              }
+            ]
+          },
+          "score": null
+        },
+        "category_id": 7,
+        "segmentation": []
+      },
+      {
+        "id": 5,
+        "area": 129200,
+        "bbox": [
+          89,
+          536,
+          340,
+          380
+        ],
+        "iscrowd": 0,
+        "image_id": 1,
+        "neurolabs": {
+          "modalities": {
+            "price": [
+              {
+                "score": 1.0,
+                "value": ""
+              }
+            ]
+          },
+          "score": 0.658583062,
+          "alternative_predictions": [
+            {
+              "category_id": 1,
+              "score": 0.553079594
+            },
+            {
+              "category_id": 3,
+              "score": 0.494784106
+            }
+          ]
+        },
+        "category_id": 2,
+        "segmentation": []
+      },
+      {
+        "id": 6,
+        "area": 60885,
+        "bbox": [
+          168,
+          879,
+          297,
+          205
+        ],
+        "iscrowd": 0,
+        "image_id": 1,
+        "neurolabs": {
+          "modalities": {
+            "price": [
+              {
+                "score": 1.0,
+                "value": ""
+              }
+            ]
+          },
+          "score": 0.639955588,
+          "alternative_predictions": [
+            {
+              "category_id": 4,
+              "score": 0.525396722
+            }
+          ]
+        },
+        "category_id": 2,
+        "segmentation": []
+      },
+      {
+        "id": 7,
+        "area": 123240,
+        "bbox": [
+          364,
+          531,
+          316,
+          390
+        ],
+        "iscrowd": 0,
+        "image_id": 1,
+        "neurolabs": {
+          "modalities": {
+            "price": [
+              {
+                "score": 1.0,
+                "value": ""
+              }
+            ]
+          },
+          "score": 0.691963494,
+          "alternative_predictions": [
+            {
+              "category_id": 1,
+              "score": 0.55418366
+            },
+            {
+              "category_id": 3,
+              "score": 0.507711224
+            }
+          ]
+        },
+        "category_id": 2,
+        "segmentation": []
+      },
+      {
+        "id": 8,
+        "area": 59823,
+        "bbox": [
+          446,
+          875,
+          289,
+          207
+        ],
+        "iscrowd": 0,
+        "image_id": 1,
+        "neurolabs": {
+          "modalities": {
+            "price": [
+              {
+                "score": 1.0,
+                "value": ""
+              }
+            ]
+          },
+          "score": 0.637104294,
+          "alternative_predictions": [
+            {
+              "category_id": 4,
+              "score": 0.526132442
+            },
+            {
+              "category_id": 1,
+              "score": 0.428443858
+            }
+          ]
+        },
+        "category_id": 2,
+        "segmentation": []
+      },
+      {
+        "id": 9,
+        "area": 113100,
+        "bbox": [
+          662,
+          527,
+          290,
+          390
+        ],
+        "iscrowd": 0,
+        "image_id": 1,
+        "neurolabs": {
+          "modalities": {
+            "price": [
+              {
+                "score": 1.0,
+                "value": ""
+              }
+            ]
+          },
+          "score": 0.67661804,
+          "alternative_predictions": [
+            {
+              "category_id": 1,
+              "score": 0.467687916
+            },
+            {
+              "category_id": 4,
+              "score": 0.434847774
+            }
+          ]
+        },
+        "category_id": 3,
+        "segmentation": []
+      },
+      {
+        "id": 10,
+        "area": 22563,
+        "bbox": [
+          705,
+          1304,
+          207,
+          109
+        ],
+        "iscrowd": 0,
+        "image_id": 1,
+        "neurolabs": {
+          "modalities": {
+            "price": [
+              {
+                "score": 1.0,
+                "value": "1.75, 2.40, 0.39"
+              }
+            ],
+            "quantity": [
+              {
+                "score": 1.0,
+                "value": "1, 1, 100"
+              }
+            ]
+          },
+          "score": null
+        },
+        "category_id": 7,
+        "segmentation": []
+      },
+      {
+        "id": 11,
+        "area": 56170,
+        "bbox": [
+          723,
+          874,
+          274,
+          205
+        ],
+        "iscrowd": 0,
+        "image_id": 1,
+        "neurolabs": {
+          "modalities": {
+            "price": [
+              {
+                "score": 1.0,
+                "value": ""
+              }
+            ]
+          },
+          "score": 0.658951246,
+          "alternative_predictions": [
+            {
+              "category_id": 1,
+              "score": 0.47314881400000003
+            }
+          ]
+        },
+        "category_id": 3,
+        "segmentation": []
+      },
+      {
+        "id": 12,
+        "area": 24720,
+        "bbox": [
+          858,
+          380,
+          206,
+          120
+        ],
+        "iscrowd": 0,
+        "image_id": 1,
+        "neurolabs": {
+          "modalities": {
+            "price": [
+              {
+                "score": 1.0,
+                "value": "3.30, 0.82"
+              }
+            ],
+            "quantity": [
+              {
+                "score": 1.0,
+                "value": "1, 100"
+              }
+            ]
+          },
+          "score": null
+        },
+        "category_id": 7,
+        "segmentation": []
+      },
+      {
+        "id": 13,
+        "area": 187434,
+        "bbox": [
+          879,
+          100,
+          702,
+          267
+        ],
+        "iscrowd": 0,
+        "image_id": 1,
+        "neurolabs": {
+          "modalities": {
+            "price": [
+              {
+                "score": 1.0,
+                "value": ""
+              }
+            ]
+          },
+          "score": 1.0,
+          "alternative_predictions": [
+            {
+              "category_id": 8,
+              "score": 0.224719308
+            },
+            {
+              "category_id": 5,
+              "score": 0.186104104
+            }
+          ]
+        },
+        "category_id": 0,
+        "segmentation": []
+      },
+      {
+        "id": 14,
+        "area": 63336,
+        "bbox": [
+          966,
+          532,
+          273,
+          232
+        ],
+        "iscrowd": 0,
+        "image_id": 1,
+        "neurolabs": {
+          "modalities": {
+            "price": [
+              {
+                "score": 1.0,
+                "value": ""
+              }
+            ]
+          },
+          "score": 0.650370264,
+          "alternative_predictions": [
+            {
+              "category_id": 1,
+              "score": 0.516150936
+            }
+          ]
+        },
+        "category_id": 3,
+        "segmentation": []
+      },
+      {
+        "id": 15,
+        "area": 46872,
+        "bbox": [
+          1018,
+          884,
+          248,
+          189
+        ],
+        "iscrowd": 0,
+        "image_id": 1,
+        "neurolabs": {
+          "modalities": {
+            "price": [
+              {
+                "score": 1.0,
+                "value": ""
+              }
+            ]
+          },
+          "score": 0.641325846,
+          "alternative_predictions": [
+            {
+              "category_id": 1,
+              "score": 0.501638566
+            }
+          ]
+        },
+        "category_id": 3,
+        "segmentation": []
+      },
+      {
+        "id": 16,
+        "area": 97353,
+        "bbox": [
+          1249,
+          526,
+          261,
+          373
+        ],
+        "iscrowd": 0,
+        "image_id": 1,
+        "neurolabs": {
+          "modalities": {
+            "price": [
+              {
+                "score": 1.0,
+                "value": ""
+              }
+            ]
+          },
+          "score": 0.623094806,
+          "alternative_predictions": [
+            {
+              "category_id": 3,
+              "score": 0.496590992
+            }
+          ]
+        },
+        "category_id": 4,
+        "segmentation": []
+      },
+      {
+        "id": 17,
+        "area": 54750,
+        "bbox": [
+          1259,
+          853,
+          250,
+          219
+        ],
+        "iscrowd": 0,
+        "image_id": 1,
+        "neurolabs": {
+          "modalities": {
+            "price": [
+              {
+                "score": 1.0,
+                "value": ""
+              }
+            ]
+          },
+          "score": 0.5311783059999999,
+          "alternative_predictions": [
+            {
+              "category_id": 3,
+              "score": 0.48210531
+            }
+          ]
+        },
+        "category_id": 4,
+        "segmentation": []
+      },
+      {
+        "id": 18,
+        "area": 20072,
+        "bbox": [
+          1279,
+          1296,
+          193,
+          104
+        ],
+        "iscrowd": 0,
+        "image_id": 1,
+        "neurolabs": {
+          "modalities": {
+            "price": [
+              {
+                "score": 1.0,
+                "value": "1.75"
+              }
+            ],
+            "quantity": [
+              {
+                "score": 1.0,
+                "value": "1"
+              }
+            ]
+          },
+          "score": null
+        },
+        "category_id": 7,
+        "segmentation": []
+      },
+      {
+        "id": 19,
+        "area": 91234,
+        "bbox": [
+          1505,
+          521,
+          242,
+          377
+        ],
+        "iscrowd": 0,
+        "image_id": 1,
+        "neurolabs": {
+          "modalities": {
+            "price": [
+              {
+                "score": 1.0,
+                "value": ""
+              }
+            ]
+          },
+          "score": 0.628388704,
+          "alternative_predictions": [
+            {
+              "category_id": 3,
+              "score": 0.526976744
+            }
+          ]
+        },
+        "category_id": 4,
+        "segmentation": []
+      },
+      {
+        "id": 20,
+        "area": 50504,
+        "bbox": [
+          1540,
+          852,
+          236,
+          214
+        ],
+        "iscrowd": 0,
+        "image_id": 1,
+        "neurolabs": {
+          "modalities": {
+            "price": [
+              {
+                "score": 1.0,
+                "value": ""
+              }
+            ]
+          },
+          "score": 0.51405201,
+          "alternative_predictions": [
+            {
+              "category_id": 3,
+              "score": 0.47085597
+            }
+          ]
+        },
+        "category_id": 4,
+        "segmentation": []
+      },
+      {
+        "id": 21,
+        "area": 22892,
+        "bbox": [
+          1675,
+          382,
+          194,
+          118
+        ],
+        "iscrowd": 0,
+        "image_id": 1,
+        "neurolabs": {
+          "modalities": {
+            "price": [
+              {
+                "score": 1.0,
+                "value": "2.40, 0.80"
+              }
+            ],
+            "quantity": [
+              {
+                "score": 1.0,
+                "value": "1, 100"
+              }
+            ]
+          },
+          "score": null
+        },
+        "category_id": 7,
+        "segmentation": []
+      },
+      {
+        "id": 22,
+        "area": 101112,
+        "bbox": [
+          1766,
+          513,
+          264,
+          383
+        ],
+        "iscrowd": 0,
+        "image_id": 1,
+        "neurolabs": {
+          "modalities": {
+            "price": [
+              {
+                "score": 1.0,
+                "value": ""
+              }
+            ]
+          },
+          "score": 0.594336476,
+          "alternative_predictions": [
+            {
+              "category_id": 3,
+              "score": 0.528631054
+            }
+          ]
+        },
+        "category_id": 4,
+        "segmentation": []
+      },
+      {
+        "id": 23,
+        "area": 43811,
+        "bbox": [
+          1786,
+          871,
+          227,
+          193
+        ],
+        "iscrowd": 0,
+        "image_id": 1,
+        "neurolabs": {
+          "modalities": {
+            "price": [
+              {
+                "score": 1.0,
+                "value": ""
+              }
+            ]
+          },
+          "score": 1.0,
+          "alternative_predictions": [
+            {
+              "category_id": 2,
+              "score": 0.47646733799999996
+            },
+            {
+              "category_id": 4,
+              "score": 0.46051802
+            }
+          ]
+        },
+        "category_id": 0,
+        "segmentation": []
+      },
+      {
+        "id": 24,
+        "area": 20246,
+        "bbox": [
+          1997,
+          1282,
+          191,
+          106
+        ],
+        "iscrowd": 0,
+        "image_id": 1,
+        "neurolabs": {
+          "modalities": {
+            "price": [
+              {
+                "score": 1.0,
+                "value": "1.75, 2.40, 0.39"
+              }
+            ],
+            "quantity": [
+              {
+                "score": 1.0,
+                "value": "1, 1, 100"
+              }
+            ]
+          },
+          "score": null
+        },
+        "category_id": 7,
+        "segmentation": []
+      },
+      {
+        "id": 25,
+        "area": 98020,
+        "bbox": [
+          2051,
+          520,
+          260,
+          377
+        ],
+        "iscrowd": 0,
+        "image_id": 1,
+        "neurolabs": {
+          "modalities": {
+            "price": [
+              {
+                "score": 1.0,
+                "value": ""
+              }
+            ]
+          },
+          "score": 0.611599174,
+          "alternative_predictions": [
+            {
+              "category_id": 3,
+              "score": 0.514855372
+            }
+          ]
+        },
+        "category_id": 4,
+        "segmentation": []
+      },
+      {
+        "id": 26,
+        "area": 41768,
+        "bbox": [
+          2058,
+          876,
+          227,
+          184
+        ],
+        "iscrowd": 0,
+        "image_id": 1,
+        "neurolabs": {
+          "modalities": {
+            "price": [
+              {
+                "score": 1.0,
+                "value": ""
+              }
+            ]
+          },
+          "score": 1.0,
+          "alternative_predictions": [
+            {
+              "category_id": 2,
+              "score": 0.48925359
+            },
+            {
+              "category_id": 4,
+              "score": 0.46441877
+            }
+          ]
+        },
+        "category_id": 0,
+        "segmentation": []
+      },
+      {
+        "id": 27,
+        "area": 71383,
+        "bbox": [
+          2171,
+          110,
+          289,
+          247
+        ],
+        "iscrowd": 0,
+        "image_id": 1,
+        "neurolabs": {
+          "modalities": {
+            "price": [
+              {
+                "score": 1.0,
+                "value": ""
+              }
+            ]
+          },
+          "score": 1.0,
+          "alternative_predictions": [
+            {
+              "category_id": 9,
+              "score": 0.2599879525
+            },
+            {
+              "category_id": 8,
+              "score": 0.242238034
+            },
+            {
+              "category_id": 6,
+              "score": 0.225760658
+            }
+          ]
+        },
+        "category_id": 0,
+        "segmentation": []
+      },
+      {
+        "id": 28,
+        "area": 22347,
+        "bbox": [
+          2214,
+          378,
+          191,
+          117
+        ],
+        "iscrowd": 0,
+        "image_id": 1,
+        "neurolabs": {
+          "modalities": {
+            "price": [
+              {
+                "score": 1.0,
+                "value": "3.20, 0.75"
+              }
+            ],
+            "quantity": [
+              {
+                "score": 1.0,
+                "value": "1, 100"
+              }
+            ]
+          },
+          "score": null
+        },
+        "category_id": 7,
+        "segmentation": []
+      },
+      {
+        "id": 29,
+        "area": 47362,
+        "bbox": [
+          2284,
+          863,
+          238,
+          199
+        ],
+        "iscrowd": 0,
+        "image_id": 1,
+        "neurolabs": {
+          "modalities": {
+            "price": [
+              {
+                "score": 1.0,
+                "value": ""
+              }
+            ]
+          },
+          "score": 0.570732506,
+          "alternative_predictions": [
+            {
+              "category_id": 3,
+              "score": 0.468264052
+            }
+          ]
+        },
+        "category_id": 4,
+        "segmentation": []
+      },
+      {
+        "id": 30,
+        "area": 81312,
+        "bbox": [
+          2306,
+          536,
+          231,
+          352
+        ],
+        "iscrowd": 0,
+        "image_id": 1,
+        "neurolabs": {
+          "modalities": {
+            "price": [
+              {
+                "score": 1.0,
+                "value": ""
+              }
+            ]
+          },
+          "score": 0.70842678,
+          "alternative_predictions": [
+            {
+              "category_id": 1,
+              "score": 0.5546335139999999
+            }
+          ]
+        },
+        "category_id": 4,
+        "segmentation": []
+      },
+      {
+        "id": 31,
+        "area": 20246,
+        "bbox": [
+          2451,
+          1276,
+          191,
+          106
+        ],
+        "iscrowd": 0,
+        "image_id": 1,
+        "neurolabs": {
+          "modalities": {
+            "price": [
+              {
+                "score": 1.0,
+                "value": "1.75, 2.40"
+              }
+            ],
+            "quantity": [
+              {
+                "score": 1.0,
+                "value": "1, 1"
+              }
+            ]
+          },
+          "score": null
+        },
+        "category_id": 7,
+        "segmentation": []
+      },
+      {
+        "id": 32,
+        "area": 77000,
+        "bbox": [
+          2501,
+          102,
+          308,
+          250
+        ],
+        "iscrowd": 0,
+        "image_id": 1,
+        "neurolabs": {
+          "modalities": {
+            "price": [
+              {
+                "score": 1.0,
+                "value": ""
+              }
+            ]
+          },
+          "score": 1.0,
+          "alternative_predictions": [
+            {
+              "category_id": 9,
+              "score": 0.2848876975
+            },
+            {
+              "category_id": 6,
+              "score": 0.267559852
+            },
+            {
+              "category_id": 8,
+              "score": 0.257686464
+            }
+          ]
+        },
+        "category_id": 0,
+        "segmentation": []
+      },
+      {
+        "id": 33,
+        "area": 50301,
+        "bbox": [
+          2532,
+          850,
+          243,
+          207
+        ],
+        "iscrowd": 0,
+        "image_id": 1,
+        "neurolabs": {
+          "modalities": {
+            "price": [
+              {
+                "score": 1.0,
+                "value": ""
+              }
+            ]
+          },
+          "score": 0.6242240020000001,
+          "alternative_predictions": [
+            {
+              "category_id": 2,
+              "score": 0.527614736
+            }
+          ]
+        },
+        "category_id": 4,
+        "segmentation": []
+      },
+      {
+        "id": 34,
+        "area": 94535,
+        "bbox": [
+          2554,
+          531,
+          259,
+          365
+        ],
+        "iscrowd": 0,
+        "image_id": 1,
+        "neurolabs": {
+          "modalities": {
+            "price": [
+              {
+                "score": 1.0,
+                "value": ""
+              }
+            ]
+          },
+          "score": 0.728736986,
+          "alternative_predictions": [
+            {
+              "category_id": 1,
+              "score": 0.550486024
+            }
+          ]
+        },
+        "category_id": 4,
+        "segmentation": []
+      },
+      {
+        "id": 35,
+        "area": 45360,
+        "bbox": [
+          2761,
+          865,
+          240,
+          189
+        ],
+        "iscrowd": 0,
+        "image_id": 1,
+        "neurolabs": {
+          "modalities": {
+            "price": [
+              {
+                "score": 1.0,
+                "value": ""
+              }
+            ]
+          },
+          "score": 0.702917308,
+          "alternative_predictions": [
+            {
+              "category_id": 3,
+              "score": 0.22198115
+            }
+          ]
+        },
+        "category_id": 5,
+        "segmentation": []
+      },
+      {
+        "id": 36,
+        "area": 94582,
+        "bbox": [
+          2794,
+          537,
+          262,
+          361
+        ],
+        "iscrowd": 0,
+        "image_id": 1,
+        "neurolabs": {
+          "modalities": {
+            "price": [
+              {
+                "score": 1.0,
+                "value": ""
+              }
+            ]
+          },
+          "score": 0.695655014,
+          "alternative_predictions": [
+            {
+              "category_id": 6,
+              "score": 0.387854292
+            }
+          ]
+        },
+        "category_id": 5,
+        "segmentation": []
+      },
+      {
+        "id": 37,
+        "area": 59020,
+        "bbox": [
+          2850,
+          0,
+          260,
+          227
+        ],
+        "iscrowd": 0,
+        "image_id": 1,
+        "neurolabs": {
+          "modalities": {
+            "price": [
+              {
+                "score": 1.0,
+                "value": ""
+              }
+            ]
+          },
+          "score": 1.0,
+          "alternative_predictions": [
+            {
+              "category_id": 5,
+              "score": 0.41468126
+            },
+            {
+              "category_id": 8,
+              "score": 0.26676438
+            }
+          ]
+        },
+        "category_id": 0,
+        "segmentation": []
+      },
+      {
+        "id": 38,
+        "area": 23010,
+        "bbox": [
+          2928,
+          367,
+          195,
+          118
+        ],
+        "iscrowd": 0,
+        "image_id": 1,
+        "neurolabs": {
+          "modalities": {
+            "price": [
+              {
+                "score": 1.0,
+                "value": "2.25, 0.50"
+              }
+            ],
+            "quantity": [
+              {
+                "score": 1.0,
+                "value": "1, 100"
+              }
+            ]
+          },
+          "score": null
+        },
+        "category_id": 7,
+        "segmentation": []
+      },
+      {
+        "id": 39,
+        "area": 51400,
+        "bbox": [
+          2994,
+          852,
+          257,
+          200
+        ],
+        "iscrowd": 0,
+        "image_id": 1,
+        "neurolabs": {
+          "modalities": {
+            "price": [
+              {
+                "score": 1.0,
+                "value": ""
+              }
+            ]
+          },
+          "score": 0.696650804,
+          "alternative_predictions": [
+            {
+              "category_id": 3,
+              "score": 0.258049382
+            }
+          ]
+        },
+        "category_id": 5,
+        "segmentation": []
+      },
+      {
+        "id": 40,
+        "area": 105270,
+        "bbox": [
+          3021,
+          530,
+          290,
+          363
+        ],
+        "iscrowd": 0,
+        "image_id": 1,
+        "neurolabs": {
+          "modalities": {
+            "price": [
+              {
+                "score": 1.0,
+                "value": ""
+              }
+            ]
+          },
+          "score": 0.672572428,
+          "alternative_predictions": [
+            {
+              "category_id": 6,
+              "score": 0.370718204
+            }
+          ]
+        },
+        "category_id": 5,
+        "segmentation": []
+      },
+      {
+        "id": 41,
+        "area": 63392,
+        "bbox": [
+          3119,
+          0,
+          283,
+          224
+        ],
+        "iscrowd": 0,
+        "image_id": 1,
+        "neurolabs": {
+          "modalities": {
+            "price": [
+              {
+                "score": 1.0,
+                "value": ""
+              }
+            ]
+          },
+          "score": 1.0,
+          "alternative_predictions": [
+            {
+              "category_id": 5,
+              "score": 0.347988692
+            },
+            {
+              "category_id": 9,
+              "score": 0.2483636225
+            }
+          ]
+        },
+        "category_id": 0,
+        "segmentation": []
+      },
+      {
+        "id": 42,
+        "area": 19760,
+        "bbox": [
+          3152,
+          1267,
+          190,
+          104
+        ],
+        "iscrowd": 0,
+        "image_id": 1,
+        "neurolabs": {
+          "modalities": {
+            "price": [
+              {
+                "score": 1.0,
+                "value": "2.25, 0.50"
+              }
+            ],
+            "quantity": [
+              {
+                "score": 1.0,
+                "value": "1, 100"
+              }
+            ]
+          },
+          "score": null
+        },
+        "category_id": 7,
+        "segmentation": []
+      },
+      {
+        "id": 43,
+        "area": 54136,
+        "bbox": [
+          3235,
+          848,
+          268,
+          202
+        ],
+        "iscrowd": 0,
+        "image_id": 1,
+        "neurolabs": {
+          "modalities": {
+            "price": [
+              {
+                "score": 1.0,
+                "value": ""
+              }
+            ]
+          },
+          "score": 0.696107974,
+          "alternative_predictions": [
+            {
+              "category_id": 3,
+              "score": 0.244475936
+            }
+          ]
+        },
+        "category_id": 5,
+        "segmentation": []
+      },
+      {
+        "id": 44,
+        "area": 107514,
+        "bbox": [
+          3286,
+          525,
+          297,
+          362
+        ],
+        "iscrowd": 0,
+        "image_id": 1,
+        "neurolabs": {
+          "modalities": {
+            "price": [
+              {
+                "score": 1.0,
+                "value": ""
+              }
+            ]
+          },
+          "score": 0.693461188,
+          "alternative_predictions": [
+            {
+              "category_id": 6,
+              "score": 0.32701727199999997
+            }
+          ]
+        },
+        "category_id": 5,
+        "segmentation": []
+      },
+      {
+        "id": 45,
+        "area": 64167,
+        "bbox": [
+          3383,
+          0,
+          293,
+          219
+        ],
+        "iscrowd": 0,
+        "image_id": 1,
+        "neurolabs": {
+          "modalities": {
+            "price": [
+              {
+                "score": 1.0,
+                "value": ""
+              }
+            ]
+          },
+          "score": 1.0,
+          "alternative_predictions": [
+            {
+              "category_id": 5,
+              "score": 0.465619788
+            },
+            {
+              "category_id": 8,
+              "score": 0.27961505
+            }
+          ]
+        },
+        "category_id": 0,
+        "segmentation": []
+      },
+      {
+        "id": 46,
+        "area": 26536,
+        "bbox": [
+          3700,
+          1254,
+          248,
+          107
+        ],
+        "iscrowd": 0,
+        "image_id": 1,
+        "neurolabs": {
+          "modalities": {
+            "price": [
+              {
+                "score": 1.0,
+                "value": ""
+              }
+            ]
+          },
+          "score": 1.0,
+          "alternative_predictions": [
+            {
+              "category_id": 10,
+              "score": 0.13889885
+            },
+            {
+              "category_id": 11,
+              "score": 0.120259498
+            },
+            {
+              "category_id": 12,
+              "score": 0.0792164212
+            }
+          ]
+        },
+        "category_id": 0,
+        "segmentation": []
+      },
+      {
+        "id": 47,
+        "area": 21082,
+        "bbox": [
+          3730,
+          835,
+          166,
+          127
+        ],
+        "iscrowd": 0,
+        "image_id": 1,
+        "neurolabs": {
+          "modalities": {
+            "price": [
+              {
+                "score": 1.0,
+                "value": ""
+              }
+            ]
+          },
+          "score": 1.0,
+          "alternative_predictions": [
+            {
+              "category_id": 8,
+              "score": 0.15790952
+            },
+            {
+              "category_id": 10,
+              "score": 0.146960126
+            },
+            {
+              "category_id": 12,
+              "score": 0.1210426438
+            }
+          ]
+        },
+        "category_id": 0,
+        "segmentation": []
+      },
+      {
+        "id": 48,
+        "area": 37556,
+        "bbox": [
+          3777,
+          578,
+          164,
+          229
+        ],
+        "iscrowd": 0,
+        "image_id": 1,
+        "neurolabs": {
+          "modalities": {
+            "price": [
+              {
+                "score": 1.0,
+                "value": ""
+              }
+            ]
+          },
+          "score": 1.0,
+          "alternative_predictions": [
+            {
+              "category_id": 3,
+              "score": 0.200693858
+            },
+            {
+              "category_id": 11,
+              "score": 0.180652358
+            },
+            {
+              "category_id": 10,
+              "score": 0.174081504
+            }
+          ]
+        },
+        "category_id": 0,
+        "segmentation": []
+      },
+      {
+        "id": 49,
+        "area": 22570,
+        "bbox": [
+          3846,
+          441,
+          185,
+          122
+        ],
+        "iscrowd": 0,
+        "image_id": 1,
+        "neurolabs": {
+          "modalities": {
+            "price": [
+              {
+                "score": 1.0,
+                "value": ""
+              }
+            ]
+          },
+          "score": 1.0,
+          "alternative_predictions": [
+            {
+              "category_id": 3,
+              "score": 0.1328399972
+            },
+            {
+              "category_id": 12,
+              "score": 0.11235076
+            },
+            {
+              "category_id": 13,
+              "score": 0.0755121184
+            }
+          ]
+        },
+        "category_id": 0,
+        "segmentation": []
+      },
+      {
+        "id": 50,
+        "area": 16380,
+        "bbox": [
+          3846,
+          444,
+          140,
+          117
+        ],
+        "iscrowd": 0,
+        "image_id": 1,
+        "neurolabs": {
+          "modalities": {
+            "price": [
+              {
+                "score": 1.0,
+                "value": "2.95"
+              }
+            ],
+            "quantity": [
+              {
+                "score": 1.0,
+                "value": "1"
+              }
+            ]
+          },
+          "score": null
+        },
+        "category_id": 7,
+        "segmentation": []
+      }
+    ]
+  },
+  "confidence_score": null
+}

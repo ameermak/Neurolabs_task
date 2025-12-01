@@ -1,0 +1,54 @@
+{
+  "uuid": "c2f9d02e-cbaa-4178-b8ce-70928620158c",
+  "task_uuid": "524f423d-a529-475b-8fc5-87219ad98390",
+  "image_url": "https://storage.googleapis.com/staging-zia-web-public/staging/ir-tasks/087d4d0c-8b3b-4d1c-abb4-c697c41db427/8923c54b-ffea-4e74-8c4d-419dd02b97aa.jpg",
+  "status": "IN_PROGRESS",
+  "failure_reason": "",
+  "duration": null,
+  "created_at": "2025-12-01T15:21:05.286643",
+  "updated_at": "2025-12-01T15:21:05.621752",
+  "postprocessing_results": {
+    "realogram": null,
+    "shares": []
+  },
+  "coco": {
+    "info": {
+      "url": "",
+      "year": "2025",
+      "version": "1",
+      "contributor": "",
+      "description": "",
+      "date_created": "12/01/2025, 15:21:05"
+    },
+    "images": [
+      {
+        "id": 1,
+        "width": null,
+        "height": null,
+        "license": 1,
+        "coco_url": "",
+        "file_name": "https://storage.googleapis.com/staging-zia-web-public/staging/ir-tasks/087d4d0c-8b3b-4d1c-abb4-c697c41db427/8923c54b-ffea-4e74-8c4d-419dd02b97aa.jpg",
+        "flickr_url": "",
+        "date_captured": ""
+      }
+    ],
+    "licenses": [
+      {
+        "id": 1,
+        "url": "",
+        "name": ""
+      }
+    ],
+    "neurolabs": {},
+    "categories": [
+      {
+        "id": 0,
+        "name": "object",
+        "neurolabs": null,
+        "supercategory": ""
+      }
+    ],
+    "annotations": []
+  },
+  "confidence_score": null
+}
