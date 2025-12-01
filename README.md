@@ -10,7 +10,7 @@ I’ve tried to keep the setup minimal and the workflow straightforward so it ca
 3. Add your API key (create a .env file in the project root and add your api key)
 4. Run the script
 
-##Output locations
+## Output locations
 
 Raw JSON result files:
 output/json/
